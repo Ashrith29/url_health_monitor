@@ -3,9 +3,9 @@
 
 A web-based application that monitors the health and response times of URLs. It provides real-time status updates, response time tracking, and historical metrics for monitoring website availability.
 
-![URL Health Monitor Screenshot](screenshot.pn)
 ![URL Health Monitor Screenshot](screenshot.png)
-![URL Health Monitor Screenshot](screenshot.png)
+![URL Health Monitor Screenshot](screenshot.png(2))
+![URL Health Monitor Screenshot](screenshot.png(3))
 
 ## Features
 
