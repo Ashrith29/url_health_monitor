@@ -3,9 +3,9 @@
 
 A web-based application that monitors the health and response times of URLs. It provides real-time status updates, response time tracking, and historical metrics for monitoring website availability.
 
-![Screenshot png](https://github.com/user-attachments/assets/d4b38a17-679e-43f7-af88-eaf94a598aeb)
-![Screenshot png (3)](https://github.com/user-attachments/assets/08d17c9c-9adf-40c6-bcce-943bae2b9a1a)
 ![Screenshot png (2)](https://github.com/user-attachments/assets/c6804547-2ef7-403f-8a53-a46d4ec0fbdb)
+![Screenshot png (3)](https://github.com/user-attachments/assets/08d17c9c-9adf-40c6-bcce-943bae2b9a1a)
+![Screenshot png](https://github.com/user-attachments/assets/d4b38a17-679e-43f7-af88-eaf94a598aeb)
 
 
 
